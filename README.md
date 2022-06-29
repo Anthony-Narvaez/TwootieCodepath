@@ -1,8 +1,7 @@
-# Twitter - Part I
+# Twitter
 
 This is a basic twitter app to read your tweets.
 
-Time spent: **3** hours spent in total
 
 ## User Stories
 
